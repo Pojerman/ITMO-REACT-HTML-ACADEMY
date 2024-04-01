@@ -29,6 +29,14 @@ docker run -p 4000:4000 what-to-watch
 http://localhost:4000
 ```
 
+**На странице входа в аккаунт можно использовать любой адрес электронной почты, однако для пароля требуется наличие как буквенных символов, так и цифр.**
+
+**Пример:**
+
+**Email: example@example.com**
+
+**Password: mySecurePassword123**
+
 <a href="https://htmlacademy.ru/intensive/react"><img align="left" width="50" height="50" title="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/react/logo-for-github.png"></a>
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[React. Разработка сложных клиентских приложений](https://htmlacademy.ru/intensive/react)» от [HTML Academy](https://htmlacademy.ru).
