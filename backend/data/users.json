@@ -1,0 +1,14 @@
+[
+  {
+    "email": "Oliver.conner@gmail.com",
+    "token": "fa2bd310-b9e0-474d-a12d-5957d43f5cbc",
+    "name": "Oliver.conner",
+    "avatarUrl": "http://localhost:3000/images/user0.jpg"
+  },
+  {
+    "email": "dasd@mail.ru",
+    "token": null,
+    "name": "dasd",
+    "avatarUrl": "http://localhost:3000/images/user1.jpg"
+  }
+]

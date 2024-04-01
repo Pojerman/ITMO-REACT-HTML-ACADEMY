@@ -1,0 +1,108 @@
+[
+  {
+    "id": "ea78fad9-5fb4-4203-99a8-6c142b62c4b2",
+    "name": "Barbarian",
+    "previewImage": "http://localhost:3000/images/barbarian.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "c404a074-197a-4dcf-ac24-f082c319cc5c",
+    "name": "Black hole",
+    "previewImage": "http://localhost:3000/images/blackhole.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Drama"
+  },
+  {
+    "id": "bf21d495-7c22-4f1d-aaae-4183141bc334",
+    "name": "The house",
+    "previewImage": "http://localhost:3000/images/house.jpg",
+    "backgroundImage": "http://localhost:3000/images/house.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Drama"
+  },
+  {
+    "id": "b20466ec-2b71-4a57-9279-1754cb5bf840",
+    "name": "Cyrano",
+    "previewImage": "http://localhost:3000/images/cyrano.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Drama"
+  },
+  {
+    "id": "ddfb55c0-f618-4425-b6f1-04dadaee4bd8",
+    "name": "Fight club",
+    "previewImage": "http://localhost:3000/images/figthclub.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Drama"
+  },
+  {
+    "id": "a29d54ab-4fc6-4d71-aff5-c6f0726faf4c",
+    "name": "Joker",
+    "previewImage": "http://localhost:3000/images/joker.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Comedy"
+  },
+  {
+    "id": "559513be-b696-4644-9e1f-0ebf42cbf178",
+    "name": "Jurassic park",
+    "previewImage": "http://localhost:3000/images/jurassicpark.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Action"
+  },
+  {
+    "id": "9117dece-5c37-40ff-8c20-15f736d046a6",
+    "name": "Leon",
+    "previewImage": "http://localhost:3000/images/leon.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Comedy"
+  },
+  {
+    "id": "d56f0997-6dd0-4722-8533-224180b05b3e",
+    "name": "Limitless",
+    "previewImage": "http://localhost:3000/images/limitless.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Thriller"
+  },
+  {
+    "id": "8658788f-ef99-496a-8918-0591da1d3b05",
+    "name": "Lucy",
+    "previewImage": "http://localhost:3000/images/lucy.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Crime"
+  },
+  {
+    "id": "b012d15c-df7b-46cb-9d64-352297950403",
+    "name": "Oppenheimer",
+    "previewImage": "http://localhost:3000/images/oppenheimer.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Crime"
+  },
+  {
+    "id": "7432e652-c5ee-4e13-b594-ad0a73ce7fe2",
+    "name": "Star wars",
+    "previewImage": "http://localhost:3000/images/starwars.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Comedy"
+  },
+  {
+    "id": "7e78a379-db1c-4686-aced-aa03c52d61ee",
+    "name": "Tron",
+    "previewImage": "http://localhost:3000/images/thron.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Adventure"
+  },
+  {
+    "id": "becbad36-cfa3-42a3-ae67-12e1d9b533b7",
+    "name": "Titanic",
+    "previewImage": "http://localhost:3000/images/titanic.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Adventure"
+  },
+  {
+    "id": "e13f292d-33e8-4e33-9aa1-cba83641c757",
+    "name": "Midnight Special",
+    "previewImage": "http://localhost:3000/images/us.jpg",
+    "previewVideoLink": "http://localhost:3000/images/video.mp4",
+    "genre": "Action"
+  }
+]
