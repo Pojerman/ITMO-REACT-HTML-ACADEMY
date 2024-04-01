@@ -14,7 +14,7 @@ router.post('/login', (req, res) => {
             email: email,
             token: crypto.randomUUID(),
             name: email.split('@')[0],
-            avatarUrl: `http://localhost:3000/images/user${Math.floor(Math.random() * 3)}.jpg`
+            avatarUrl: `${req.protocol}://${req.get('host')}/images/user${Math.floor(Math.random() * 3)}.jpg`
         }
 
         users.push(userNew);

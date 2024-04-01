@@ -1,9 +1,9 @@
 {
   "id": "bf21d495-7c22-4f1d-aaae-4183141bc334",
   "name": "The house",
-  "posterImage": "http://localhost:3000/images/house.jpg",
-  "backgroundImage": "http://localhost:3000/images/house.jpg",
-  "videoLink": "http://localhost:3000/images/video.mp4",
+  "posterImage": "http://localhost:4000/images/house.jpg",
+  "backgroundImage": "http://localhost:4000/images/house.jpg",
+  "videoLink": "http://localhost:4000/images/video.mp4",
   "genre": "Drama",
   "released": 2018,
   "isFavorite": false

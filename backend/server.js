@@ -7,7 +7,7 @@ const favoriteRoutes = require('./routes/favoriteRoutes');
 const commentsRoutes = require('./routes/commentsRoutes');
 
 const app = express();
-const PORT =  3000;
+const PORT = 4000;
 
 app.use(express.static('images'));
 app.use(express.json());
